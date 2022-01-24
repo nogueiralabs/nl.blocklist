@@ -12,8 +12,8 @@ We provide a hosts file with a list of malicious sites, crawlers, and advertisem
 We recomend using Pi-hole, but any hosts editor will work.
 You just need to download the blocklist file or redirect (Pi-hole).
 
->Lastest version of this file: https://raw.githubusercontent.com/nogueiralabs/nl.blocklist/main/blocklist
->Stable version of this file: https://nogueira.live/labs/hosts.txt
+Lastest version of this file: https://raw.githubusercontent.com/nogueiralabs/nl.blocklist/main/blocklist
+Stable version of this file: https://nogueira.live/labs/hosts.txt
 
 ## How to help?
 
